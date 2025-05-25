@@ -9,7 +9,7 @@ Kitap İşlemleri: Kitap kaydetme, düzenleme, silme
 
 Kitap Türü İşlemleri: Tür bazlı kitap gruplama ve tür düzenleme
 
-Ödünç Kitap İşlemleri: Kitap verme, teslim alma, geç teslim kontrolü
+Ödünç Kitap İşlemleri: Planlandı fakat henüz tamamlanmadı. (Arayüz hazırlanmış olabilir, ancak veri işlemleri aktif değildir.)
 
 🖥️ Kullanım
 Her işlem, ana formdaki bir butonla çağrılan özel bir alt form üzerinden yapılır. Tüm formlarda CRUD (Ekle-Sil-Güncelle) işlemleri yapılabilir.
